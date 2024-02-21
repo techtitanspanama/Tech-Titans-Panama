@@ -55,11 +55,15 @@ Las piezas se montaron en una caja impermeable, para evitar daños por agua
 ![IMG_20231216_092738 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/5f296a9a-ce37-465e-84a7-7ab8991762b7)
 
 
+Para mayor seguridad se utilizo una caja de conexión DC Marina
 
 
+![IMG_20231216_092745](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/e4618872-30d2-4804-a683-55f7db1b9a1f)
 
 
+Vista de sistema electrónico
 
+![IMG_20231216_092752](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/610efba8-92bc-459f-b092-48f9d8f58bda)
 
 
 
