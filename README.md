@@ -70,3 +70,6 @@ Programacion
 
 El Arduino Mega se programo en Mind+ y luego se convirtio a IDE de Arduino, se utilizo una camara Huskilens con programas de IA, se utilizo el programa de seguimiento de objetos, la camara utiliza coordenadas horizontales y verticales para ver la posición del objeto, utilizamos la posisión en X y la altura del objeto para hacer el programa de seguimiento de objeto, segun la posicion en el eje x el dron se mueve a la izquierda y derecha, segun la altura hacia atras y adelante, si el objeto es pequeño indica que esta lejos, si es mas grande indica que esta cerca
 
+![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/fd964ffc-6a25-4de6-a4e9-99d7b0ee587c)
+
+
