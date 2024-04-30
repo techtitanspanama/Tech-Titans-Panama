@@ -61,9 +61,12 @@ Para mayor seguridad se utilizo una caja de conexión DC Marina
 ![IMG_20231216_092745](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/e4618872-30d2-4804-a683-55f7db1b9a1f)
 
 
+
 Vista de sistema electrónico
 
 ![IMG_20231216_092752](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/610efba8-92bc-459f-b092-48f9d8f58bda)
 
+Programacion
 
+El Arduino Mega se programo en Mind+ y luego se convirtio a IDE de Arduino, se utilizo una camara Huskilens con programas de IA, se utilizo el programa de seguimiento de objetos, la camara utiliza coordenadas horizontales y verticales para ver la posición del objeto, utilizamos la posisión en X y la altura del objeto para hacer el programa de seguimiento de objeto, segun la posicion en el eje x el dron se mueve a la izquierda y derecha, segun la altura hacia atras y adelante, si el objeto es pequeño indica que esta lejos, si es mas grande indica que esta cerca
 
