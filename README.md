@@ -72,4 +72,7 @@ El Arduino Mega se programo en Mind+ y luego se convirtio a IDE de Arduino, se u
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/fd964ffc-6a25-4de6-a4e9-99d7b0ee587c)
 
+Diagrama de funcionamiento del programa del dron Delfin
+
+![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/5f8d63fd-1946-4489-941b-fd391c064930)
 
