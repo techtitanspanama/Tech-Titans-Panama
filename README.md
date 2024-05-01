@@ -81,5 +81,13 @@ Para mayor control del movimiento se trabajo en la velocidad de los motores y ad
 ![IMG_20240430_173657 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b24909ca-a85f-4958-9688-e16458891688)
 
 
+15/9/2023
+
+Diseño de sistema de deteccion de gases
+
+En diseño original se propuso un sistema de deteccion de diversos tipos de gases, como metano, butano, GLP, se escogio el sensor MQ-2, se instalo en una estructura impresa en 3D, se escogio la salida digital, con el control para detectar pequeñas concentraciones
+
+![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b252c638-326d-4f34-9ba5-6d0bc0758476)
+
 
 
