@@ -76,3 +76,8 @@ Diagrama de funcionamiento del programa del dron Delfin
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/5f8d63fd-1946-4489-941b-fd391c064930)
 
+Para mayor control del movimiento se trabajo en la velocidad de los motores y ademas se añadieron ruedas omnidireccionales lo que mejoro el desplazamiento del dron
+
+![IMG_20240430_173657](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/96733162-6778-4d4c-8f07-e2022284a07b)
+
+
