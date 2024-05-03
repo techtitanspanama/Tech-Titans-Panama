@@ -90,4 +90,9 @@ En diseño original se propuso un sistema de deteccion de diversos tipos de gase
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b252c638-326d-4f34-9ba5-6d0bc0758476)
 
 
+Etapas de Construccion del Dron Delfín
+
+![IMG_20240207_111225](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/92a0b03d-f089-4c3a-bea4-b3cb101cd7b9)
+
+
 
