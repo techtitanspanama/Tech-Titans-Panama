@@ -101,3 +101,13 @@ Etapas de Construccion del Dron Delfín
 ![IMG_20240207_111225 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/ef650fcb-bb67-449a-8c82-47b2b3c94c79)
 
 
+Cerebro
+
+Sistema Robotico formado por 3 partes principales, una Laptop con Google MediaPipe, con el modulo de reconocimiento de gestos, se conecta con un Arduino Mega por comunicacion serial, este recibe los comandos y se conecta a los drivers de motores y a los servos
+
+![cerebro](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/12044e90-5427-4442-91a4-696b56b2f829)
+
+
+
+
+
