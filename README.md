@@ -108,6 +108,11 @@ Sistema Robotico formado por 3 partes principales, una Laptop con Google MediaPi
 ![cerebro](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/12044e90-5427-4442-91a4-696b56b2f829)
 
 
+Base 
+
+La base se construyo con piezas de Lego Tetrix y REV, se imprimieron cajas en 3D para instalar los circuitos 
+
+![IMG_20240309_102558](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/023aa2f4-381e-4918-a83c-2e61a3ce990c)
 
 
 
