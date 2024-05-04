@@ -128,4 +128,22 @@ El Arduino Mega se conecta con un puerto USB , tambien se usan controladores de 
 
 ![IMG_20240420_093317](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/d846f3e4-cd4c-4eca-8fca-8cfa32229685)
 
+La Cabeza
+
+Esta fue la parte que mas llevo trabajo, se armo de multiples piezas impresas en 3D, se inicio con el movimiento del cuello y los ojos, se utilizaron 2 mini servos para los ojos y un servo Hs-65 para el cuello, la colacacion de las piezas y mecanismos deben ser muy exactos para que los mvimientos se puedan hacer.
+
+
+![IMG_20240228_125716](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/d940323f-bdff-4d0c-b4e4-d6274d236c7a)
+
+
+![IMG_20240228_125819](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b430ef3f-740a-47bd-a63b-195ec2ca98fb)
+
+
+![IMG_20240304_154845](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/02d85496-4eab-4d3d-8ff0-aaca30a27c83)
+
+
+![IMG_20240304_160218](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/84a15120-084c-4a0e-a5f1-3ad668867837)
+
+
+
 
