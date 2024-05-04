@@ -115,4 +115,9 @@ La base se construyo con piezas de Lego Tetrix y REV, se imprimieron cajas en 3D
 ![IMG_20240309_102558](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/023aa2f4-381e-4918-a83c-2e61a3ce990c)
 
 
+![IMG_20240309_102606](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/3aac8238-1fcc-40cd-9594-3a10b2b8b2da)
+
+
+![IMG_20240321_133938](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/be936a84-0adc-4825-ae88-3d43033dc534)
+
 
