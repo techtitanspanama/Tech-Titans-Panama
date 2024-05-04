@@ -121,3 +121,11 @@ La base se construyo con piezas de Lego Tetrix y REV, se imprimieron cajas en 3D
 ![IMG_20240321_133938](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/be936a84-0adc-4825-ae88-3d43033dc534)
 
 
+El Arduino Mega se conecta con un puerto USB , tambien se usan controladores de motor de alta potencia, un regulador de voltaje para alimentacion de los servomotores 
+
+
+![IMG_20240309_102611](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/387ff779-2e38-4828-a623-cabdf13b4d7c)
+
+![IMG_20240420_093317](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/d846f3e4-cd4c-4eca-8fca-8cfa32229685)
+
+
