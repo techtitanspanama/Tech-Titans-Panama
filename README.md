@@ -157,5 +157,18 @@ El ultimo movimiento que se construyo fue la mandibula, por el espacio presento 
 
 
 
+Coquete
+
+Robot Humanoide, compuesto de una base con 2 motores DC de 12v, la estructura fue construida por tubos de PVC de 1/2", se trabajo en el diseño de los hombros, ya que tienen que soportar peso, se imprimieron en 3D piezas para sostener los servos, se utilizaron servo blocks de aluminio para aumentar el peso que puede mover un servo standar
+
+![IMG_20240124_111320](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/0c8c47a5-7778-43bb-be5b-284c3c06d30d)
+
+![IMG_20240124_111346](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/c11e0816-4a69-454f-a3e1-cce0aacb4b2a)
+
+![IMG_20240131_103745](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/c655dd61-9cfc-45cd-95f5-0e510472af2f)
+
+![IMG_20240131_103800](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/41483d81-e1ff-49fc-8e14-9c0c8770ead4)
+
+
 
 
