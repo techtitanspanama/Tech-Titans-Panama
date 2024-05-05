@@ -149,6 +149,13 @@ Esta fue la parte que mas llevo trabajo, se armo de multiples piezas impresas en
 
 El ultimo movimiento que se construyo fue la mandibula, por el espacio presento algo de dificultad, se le añadio el complemento de Phyton Pyglet para poder ejecutar archivos de audio para simular voz
 
-![IMG_20240503_122507](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/627ac76e-8121-4bf6-8cbc-6693b937ac0c)
+![IMG_20240327_132501](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/6ca3e867-fecb-4804-bffa-5dbacd1b0ea2)
+
+![IMG_20240327_132507](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/79adade5-e8b1-4da9-b1cf-e5df01ecb0a3)
+
+![IMG_20240228_125808](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/f40efbcf-52ea-4382-ae3b-65d470a09884)
+
+
+
 
 
