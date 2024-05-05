@@ -142,6 +142,10 @@ Esta fue la parte que mas llevo trabajo, se armo de multiples piezas impresas en
 ![IMG_20240304_154845](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/02d85496-4eab-4d3d-8ff0-aaca30a27c83)
 
 
+
+
+
+
 ![IMG_20240304_160218](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/84a15120-084c-4a0e-a5f1-3ad668867837)
 
 
