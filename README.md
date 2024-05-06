@@ -174,6 +174,13 @@ Se trabajo en el algoritmo de seguimiento, para que los movimientos fueran mas e
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/32429288-458f-47a9-8ebc-83611e40185d)
 
+La estructura del robot se termino de construir in madera de 3mm, algunas partes fueron cortadas en una cortadora Laser
 
+
+![IMG_20240315_094525](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/d0baa3c5-9c45-4f13-84ce-f7cb63ca1467)
+
+![IMG_20240306_115434](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/6ebc6e88-73a4-469b-867a-42ce66cd67f5)
+
+![IMG_20240308_145613](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/4cf2ea08-b040-4ffc-af5e-2c0144d5d96c)
 
 
