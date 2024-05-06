@@ -130,7 +130,7 @@ El Arduino Mega se conecta con un puerto USB , tambien se usan controladores de 
 
 La Cabeza
 
-Esta fue la parte que mas llevo trabajo, se armo de multiples piezas impresas en 3D, se inicio con el movimiento del cuello y los ojos, se utilizaron 2 mini servos para los ojos y un servo Hs-65 para el cuello, la colacacion de las piezas y mecanismos deben ser muy exactos para que los mvimientos se puedan hacer.
+Esta fue la parte que mas llevo trabajo, se armo de multiples piezas impresas en 3D, se inicio con el movimiento del cuello y los ojos, se utilizaron 2 mini servos para los ojos y un servo Hs-65 para el cuello, la colacacion de las piezas y mecanismos deben ser muy exactos para que los movimientos se puedan hacer.
 
 
 ![IMG_20240228_125716](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/d940323f-bdff-4d0c-b4e4-d6274d236c7a)
@@ -168,6 +168,11 @@ Robot Humanoide, compuesto de una base con 2 motores DC de 12v, la estructura fu
 ![IMG_20240131_103745](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/c655dd61-9cfc-45cd-95f5-0e510472af2f)
 
 ![IMG_20240131_103800](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/41483d81-e1ff-49fc-8e14-9c0c8770ead4)
+
+Se trabajo en el algoritmo de seguimiento, para que los movimientos fueran mas exactos, se cambiaron los motores originales de 120 rpm, por motores de mas velocidad, de 300 rpm, de modifico el programa para abrir el rango de deteccion y minimizar los puntos ciegos en la deteccion.
+
+
+![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/32429288-458f-47a9-8ebc-83611e40185d)
 
 
 
