@@ -220,4 +220,15 @@ Al principio se penso en mantener el letrero en una posicion fija, y que recibie
 ![IMG_20240430_173649](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/ab9a33d0-c796-4e37-88ba-d30179276860)
 
 
+Se decidio hacer un robot movil con el letrero, montandolo en una base omnidireccional de tres ruedas, controlada por un sensor de gestos, se necesito otro Arduino Mega, y 3 controladores de motor, se utilizo un tubo de PVC para montar el letrero a la base con  las ruedas los soportes fueron impresos con 3D
+
+
+![IMG_20240327_110759](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/c0051c94-d9b7-41bf-a1ac-864a9d931c39)
+
+![IMG_20240331_152453](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/075a93dd-62f6-4de4-9000-75f775818cff)
+
+![IMG_20240331_152459](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/06a039ee-a465-4c3d-ac4b-10c7bab3152e)
+
+
+
 
