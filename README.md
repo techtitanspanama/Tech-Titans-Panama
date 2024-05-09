@@ -208,6 +208,7 @@ El Robot Letrero inicio como una matriz de Leds Neopixels programables, se compr
 
 ![IMG_20240316_093046](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/43bf622d-c276-499a-98a9-4ad70eed3eb1)
 
+![IMG_20240316_093110](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/346432fc-3b03-4b3b-b9f0-c35c10990726)
 
 
 
