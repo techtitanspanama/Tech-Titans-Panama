@@ -210,10 +210,12 @@ El Robot Letrero inicio como una matriz de Leds Neopixels programables, se compr
 
 ![IMG_20240316_093110](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/346432fc-3b03-4b3b-b9f0-c35c10990726)
 
-La libreria FastLed permite controlar color, encendido, apagado, intensidad de los Leds, todo controlado por el Arduino
+La libreria FastLed permite controlar color, encendido, apagado, intensidad de los Leds, todo controlado por el Arduino, se necesito un regulador de 5v para alimentar el Nano, ademas de un pequeño circuito de proteccion formado por resistencias y un capacitor, para mantener el voltaje estable, ya que los Neopixels son muy sensibles a los cambios de voltaje.
 
 ![IMG_20240316_100432](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/7032f69f-3d6f-46d6-942e-da96e18d160f)
 
+Al principio se penso en mantener el letrero en una posicion fija, y que recibiera datos mediante un Xbee de los otros robots
 
+![IMG_20240430_173649](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/c297a4ca-61aa-4bc0-816e-8aebc696fc43)
 
 
