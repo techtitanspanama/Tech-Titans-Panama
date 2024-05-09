@@ -190,7 +190,10 @@ El controlador Arduino Mega y los controladores de motor se colocaron en la espa
 ![IMG_20240502_143038](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/e49c79ab-a2aa-49b6-8c4e-0ad450802a3e)
 
 
-Otro detalle que se añadio fue los ojos hechos con una matriz de Leds, se programo con el app CoolLed, que permite hacer los diseños y cargarlos en la matriz de Leds
+Otro detalle que se añadio fue los ojos hechos con una matriz de Leds, se programo con el app CoolLed, que permite hacer los diseños y cargarlos en la matriz de Leds, como ultimo detalle se procedio a la pintura y decoracion del robot.
+
+![IMG_20240315_112411](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/dc035fbd-59ec-4aae-a560-c5ae6d1cf477)
+
 
 
 
