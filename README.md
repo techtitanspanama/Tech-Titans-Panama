@@ -183,4 +183,7 @@ La estructura del robot se termino de construir in madera de 3mm, algunas partes
 
 ![IMG_20240308_145613](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/4cf2ea08-b040-4ffc-af5e-2c0144d5d96c)
 
+El controlador Arduino Mega y los controladores de motor se colocaron en la espalda del robot, en una caja impresa en 3D, la camara Huskilens se coloco en la parte superior de la cabeza, al principio mirando hacia el frente, tras algunas pruebas y con la experiencia en las presentaciones se decidio instalarla mirando hacia atras , por lo que se puede observar mejor los movimientos del robot
+
+![IMG_20240315_095644](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/29d66781-3162-4b2d-9c23-004a462d385b)
 
