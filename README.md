@@ -204,6 +204,12 @@ El Robot Letrero
 
 El Robot Letrero inicio como una matriz de Leds Neopixels programables, se compro una instalacion de 50 leds Neopixel de 12 voltios, se utilizo un Arduino Nano Every para manejar los Leds, se uso la libreria Fast Led para controlar los leds atravez de un puerto digital, En la impresora 3D se fabrico los separadores de los Leds, esta para que la luz no se mezclara con los leds que se ecuentran al lado, esta cuadricula es de 7 x 7 , 7 cuadros de altura por 7 cuadros de anchura, para un total de 49 leds, la base se hizo en madera cortada con la laser
 
-![IMG_20240316_091339](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/2bf9f4e9-eb11-4816-86c7-7046c5a1e154)
+![IMG_20240316_090201](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/df25fe40-f0c0-42ce-9857-53fdd0ddb71b)
+
+![IMG_20240316_093046](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/43bf622d-c276-499a-98a9-4ad70eed3eb1)
+
+
+
+
 
 
