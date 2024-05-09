@@ -216,6 +216,8 @@ La libreria FastLed permite controlar color, encendido, apagado, intensidad de l
 
 Al principio se penso en mantener el letrero en una posicion fija, y que recibiera datos mediante un Xbee de los otros robots
 
-![IMG_20240430_173649](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/c297a4ca-61aa-4bc0-816e-8aebc696fc43)
+
+![IMG_20240430_173649](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/ab9a33d0-c796-4e37-88ba-d30179276860)
+
 
 
