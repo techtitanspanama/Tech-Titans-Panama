@@ -194,6 +194,10 @@ Otro detalle que se añadio fue los ojos hechos con una matriz de Leds, se progr
 
 ![IMG_20240315_112411](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/dc035fbd-59ec-4aae-a560-c5ae6d1cf477)
 
+La programacion se hizo como base en Mind+ , un lenguaje de programacion en bloques y se paso a Arduino IDE, utilizando Mind+ podemos visualizar mejor la programacion para luego hacer modificaciones en el IDE de Arduino  
+
+![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b14a6c8f-8a1f-4d4b-8667-782568becce1)
+
 
 
 
