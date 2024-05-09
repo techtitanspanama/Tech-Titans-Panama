@@ -210,6 +210,9 @@ El Robot Letrero inicio como una matriz de Leds Neopixels programables, se compr
 
 ![IMG_20240316_093110](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/346432fc-3b03-4b3b-b9f0-c35c10990726)
 
+La libreria FastLed permite controlar color, encendido, apagado, intensidad de los Leds, todo controlado por el Arduino
+
+![IMG_20240316_100432](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/7032f69f-3d6f-46d6-942e-da96e18d160f)
 
 
 
