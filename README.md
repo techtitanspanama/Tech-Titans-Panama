@@ -230,5 +230,6 @@ Se decidio hacer un robot movil con el letrero, montandolo en una base omnidirec
 ![IMG_20240331_152459](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/06a039ee-a465-4c3d-ac4b-10c7bab3152e)
 
 
+![IMG_20240503_153231](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/81baed55-24f3-411e-ba93-2b43bfa7457a)
 
 
