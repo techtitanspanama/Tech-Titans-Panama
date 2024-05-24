@@ -42,16 +42,17 @@ The parts of the catamaran were printed in 3D, PLA filament was used, almost 2 K
 
 15/6/2023
 
-Electrónica
+Electronics
 
-Las partes del casco se imprimieron, se pegaron y se pintaron con impermeabilizante para evitar entradas de agua, se comenzó a buscar todas las partes electrónicas necesarias entre ellas
-•	Arduino Mega- parte central de control
-•	Modulo de GPS y compas magnético 1-Sheeld, para la parte de navegación
-•	 2 controladores de motor de 10 amperios Citron
-•	2 motores de 12 voltios 
-•	1 caja para distribución eléctrica
+The hull parts were printed, glued and painted with waterproofing to prevent water ingress, we began to look for all the necessary electronic parts, including 
 
-Las piezas se montaron en una caja impermeable, para evitar daños por agua
+• Arduino Mega- central control part
+• GPS module and 1-Sheeld magnetic compass, for the navigation part 
+• 2 Citron 10 amp motor controllers 
+• 2 12 volt motors for the propellers
+• 1 electrical distribution box
+
+Parts were assembled in a waterproof box, to prevent water damage
 
 ![IMG_20231216_092738 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/5f296a9a-ce37-465e-84a7-7ab8991762b7)
 
