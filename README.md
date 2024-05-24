@@ -1,40 +1,39 @@
 # Tech-Titans-Panama
 
-Proyecto Robocup 2024 equipo Tech-Titans IPT Arnulfo Arias
+Robocup 2024 project Tech-Titans IPT Arnulfo Arias 
 
-Integrantes del Equipo
+Team members
 
 
 Isabelle Martinez
-XII nivel, Tecnología Informatica
+XII level, Information Technology
 
-Programacion, Diseño mecanico
+Programming, Mechanical design
 
 ![IMG_20230712_100846 (3)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/2e9ed67a-2384-490e-a029-7c5ada6c4275)
 
 
 Jamir Navarrete
-XII nivel, Tecnología Informatica
+XII level, Information Technology
 
-Rol en el equipo: Programacion, Diseño mecanico, electrónica
-
+Role in the team: Programming, mechanical design, electronics
 ![IMG_20230712_100904](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/060ceaea-19e5-497d-811d-3a7cdd9f1e7a)
 
 
 Juan Gonzalez
-XII nivel, Tecnología Informatica
-Rol en el equipo: Programación Diseño Mecanico , Impresion 3d
+XII level, Information Technology
+Role in the team: Mechanical Design Programming, 3D Printing
 
 
 Bitacora
 
 31/5/2023
 
-Inicio del proyecto, se quiere desarrollar un dron marino autónomo, con varios sensores, que permite vigilar áreas marinas, buscar manchas de petróleo y con sensores de calidad de aire medir las concentraciones de sustancias peligrosas.
+Beginning of the project, the aim is to develop an autonomous marine drone, with several sensors, which allows monitoring marine areas, searching for oil stains and, with air quality sensors, measuring the concentrations of dangerous substances.
 
-Para esto la primera tarea fue escoger una plataforma donde se pudiera montar todos los equipos, baterías y accesorios necesarios, por esto se decidió un diseño de catamarán con dos cascos, en la parte de arriba se puede colocar una base donde estaría toda la electrónica y sensores, en los espacios del casco pueden ir las baterías.
+For this, the first task was to choose a platform where all the necessary equipment, batteries and accessories could be mounted, for this reason a catamaran design with two hulls was decided, on the top you can place a base where all the electronics and sensors, batteries can go in the spaces of the helmet.
 
-Las partes del catamarán se imprimieron en 3D, se utilizo filamento PLA, se necesito casi 2 KG de filamento, por el tamaño el casco se dividió en 3 partes, que luego se unirían, estas piezas requerían hasta 20 horas de impresión , requirió casi un mes de trabajo imprimir todas las partes del catamarán.
+The parts of the catamaran were printed in 3D, PLA filament was used, almost 2 KG of filament was needed, due to the size the hull was divided into 3 parts, which would then be joined together, these parts required up to 20 hours of printing, it required almost a month of work to print all the parts of the catamaran.
 
 ![IMG_20230531_162139 (2)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/091c1e92-f210-4c51-9294-a762c268aa44)
 
