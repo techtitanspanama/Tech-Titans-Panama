@@ -17,6 +17,8 @@ Jamir Navarrete
 XII level, Information Technology
 
 Role in the team: Programming, mechanical design, electronics
+
+
 ![IMG_20230712_100904](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/060ceaea-19e5-497d-811d-3a7cdd9f1e7a)
 
 
