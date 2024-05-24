@@ -27,7 +27,7 @@ XII level, Information Technology
 Role in the team: Mechanical Design Programming, 3D Printing
 
 
-# Bitacora
+# Technical Documents
 
 31/5/2023
 
