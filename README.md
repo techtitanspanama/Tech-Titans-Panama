@@ -47,9 +47,13 @@ Electronics
 The hull parts were printed, glued and painted with waterproofing to prevent water ingress, we began to look for all the necessary electronic parts, including 
 
 • Arduino Mega- central control part
+
 • GPS module and 1-Sheeld magnetic compass, for the navigation part 
+
 • 2 Citron 10 amp motor controllers 
+
 • 2 12 volt motors for the propellers
+
 • 1 electrical distribution box
 
 Parts were assembled in a waterproof box, to prevent water damage
