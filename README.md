@@ -72,9 +72,9 @@ Vista de sistema electrónico
 
 ![IMG_20231216_092752](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/610efba8-92bc-459f-b092-48f9d8f58bda)
 
-Programacion
+Programming
 
-El Arduino Mega se programo en Mind+ y luego se convirtio a IDE de Arduino, se utilizo una camara Huskilens con programas de IA, se utilizo el programa de seguimiento de objetos, la camara utiliza coordenadas horizontales y verticales para ver la posición del objeto, utilizamos la posisión en X y la altura del objeto para hacer el programa de seguimiento de objeto, segun la posicion en el eje x el dron se mueve a la izquierda y derecha, segun la altura hacia atras y adelante, si el objeto es pequeño indica que esta lejos, si es mas grande indica que esta cerca
+The Arduino Mega was programmed in Mind+ and then converted to Arduino IDE, a Huskilens camera with AI programs was used, the object tracking program was used, the camera uses horizontal and vertical coordinates to see the position of the object, the program takes the position on the X axis and the height of the object, the position in x defines whether the object is to the right or left, Height defines whether the object is close or far away.
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/fd964ffc-6a25-4de6-a4e9-99d7b0ee587c)
 
