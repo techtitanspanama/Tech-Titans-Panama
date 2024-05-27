@@ -131,9 +131,9 @@ The Arduino Mega connects with a USB port, high-power motor drivers and a voltag
 
 ![IMG_20240420_093317](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/d846f3e4-cd4c-4eca-8fca-8cfa32229685)
 
-La Cabeza
+Head
 
-Esta fue la parte que mas llevo trabajo, se armo de multiples piezas impresas en 3D, se inicio con el movimiento del cuello y los ojos, se utilizaron 2 mini servos para los ojos y un servo Hs-65 para el cuello, la colacacion de las piezas y mecanismos deben ser muy exactos para que los movimientos se puedan hacer.
+This was the part that took the most work, it was made up of multiple 3D printed pieces, it started with the movement of the neck and eyes, 2 mini servos were used for the eyes and an Hs-65 servo for the neck, the collation of The parts and mechanisms must be very exact so that the movements can be made.
 
 
 ![IMG_20240228_125716](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/d940323f-bdff-4d0c-b4e4-d6274d236c7a)
@@ -150,7 +150,7 @@ Esta fue la parte que mas llevo trabajo, se armo de multiples piezas impresas en
 ![IMG_20240304_160218](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/84a15120-084c-4a0e-a5f1-3ad668867837)
 
 
-El ultimo movimiento que se construyo fue la mandibula, por el espacio presento algo de dificultad, se le añadio el complemento de Phyton Pyglet para poder ejecutar archivos de audio para simular voz
+The last movement that was built was the jaw, due to the space it presented some difficulty, the Python Pyglet plugin was added to be able to execute audio files to simulate voice
 
 ![IMG_20240327_132501](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/6ca3e867-fecb-4804-bffa-5dbacd1b0ea2)
 
@@ -158,11 +158,10 @@ El ultimo movimiento que se construyo fue la mandibula, por el espacio presento 
 
 ![IMG_20240228_125808](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/f40efbcf-52ea-4382-ae3b-65d470a09884)
 
-
-
 Coquete
 
-Robot Humanoide, compuesto de una base con 2 motores DC de 12v, la estructura fue construida por tubos de PVC de 1/2", se trabajo en el diseño de los hombros, ya que tienen que soportar peso, se imprimieron en 3D piezas para sostener los servos, se utilizaron servo blocks de aluminio para aumentar el peso que puede mover un servo standar
+Humanoid Robot, composed of a base with 2 12v DC motors, the structure was built with 1/2" PVC tubes, work was done on the design of the shoulders, since they have to support weight, pieces were 3D printed to To support the servos, aluminum servo blocks were used to increase the weight that a standard servo can move
+
 
 ![IMG_20240124_111320](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/0c8c47a5-7778-43bb-be5b-284c3c06d30d)
 
@@ -172,12 +171,11 @@ Robot Humanoide, compuesto de una base con 2 motores DC de 12v, la estructura fu
 
 ![IMG_20240131_103800](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/41483d81-e1ff-49fc-8e14-9c0c8770ead4)
 
-Se trabajo en el algoritmo de seguimiento, para que los movimientos fueran mas exactos, se cambiaron los motores originales de 120 rpm, por motores de mas velocidad, de 300 rpm, de modifico el programa para abrir el rango de deteccion y minimizar los puntos ciegos en la deteccion.
-
+Work was done on the tracking algorithm, so that the movements were more exact, the original 120 rpm motors were changed for higher speed motors, 300 rpm, the program was modified to open the detection range and minimize blind spots in detection.
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/32429288-458f-47a9-8ebc-83611e40185d)
 
-La estructura del robot se termino de construir in madera de 3mm, algunas partes fueron cortadas en una cortadora Laser
+The structure of the robot was finished built in 3mm wood, some parts were cut on a Laser cutter.
 
 
 ![IMG_20240315_094525](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/d0baa3c5-9c45-4f13-84ce-f7cb63ca1467)
@@ -186,26 +184,25 @@ La estructura del robot se termino de construir in madera de 3mm, algunas partes
 
 ![IMG_20240308_145613](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/4cf2ea08-b040-4ffc-af5e-2c0144d5d96c)
 
-El controlador Arduino Mega y los controladores de motor se colocaron en la espalda del robot, en una caja impresa en 3D, la camara Huskilens se coloco en la parte superior de la cabeza, al principio mirando hacia el frente, tras algunas pruebas y con la experiencia en las presentaciones se decidio instalarla mirando hacia atras , por lo que se puede observar mejor los movimientos del robot
+The Arduino Mega controller and motor controllers were placed on the back of the robot, in a 3D printed box, the Huskilens camera was placed on top of the head, at first facing forward, after some testing and with the experience in presentations, it was decided to install it facing backwards, so you can better observe the robot's movements
 
 ![IMG_20240315_095644](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/29d66781-3162-4b2d-9c23-004a462d385b)
 
 ![IMG_20240502_143038](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/e49c79ab-a2aa-49b6-8c4e-0ad450802a3e)
 
-
-Otro detalle que se añadio fue los ojos hechos con una matriz de Leds, se programo con el app CoolLed, que permite hacer los diseños y cargarlos en la matriz de Leds, como ultimo detalle se procedio a la pintura y decoracion del robot.
+Another detail that was added was the eyes made with an LED matrix, it was programmed with the CoolLed app, which allows the designs to be made and loaded into the LED matrix. As the last detail, the robot was painted and decorated.
 
 ![IMG_20240315_112411](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/dc035fbd-59ec-4aae-a560-c5ae6d1cf477)
 
-La programacion se hizo como base en Mind+ , un lenguaje de programacion en bloques y se paso a Arduino IDE, utilizando Mind+ podemos visualizar mejor la programacion para luego hacer modificaciones en el IDE de Arduino  
+The programming was done as a base in Mind+, a block programming language and was transferred to Arduino IDE, using Mind+ we can better visualize the programming and then make modifications in the Arduino IDE.
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b14a6c8f-8a1f-4d4b-8667-782568becce1)
 
 
+The Robot Sign
 
-El Robot Letrero
+The Sign Robot started as a matrix of programmable Neopixel LEDs, an installation of 50 12 volt Neopixel LEDs was purchased, an Arduino Nano Every was used to manage the LEDs, the Fast Led library was used to control the LEDs through a digital port.  The LED separators were manufactured in a 3D printer , this grid is 7 x 7, 7 squares high by 7 squares wide, for a total of 49 LEDs, the base was made of laser cut wood
 
-El Robot Letrero inicio como una matriz de Leds Neopixels programables, se compro una instalacion de 50 leds Neopixel de 12 voltios, se utilizo un Arduino Nano Every para manejar los Leds, se uso la libreria Fast Led para controlar los leds atravez de un puerto digital, En la impresora 3D se fabrico los separadores de los Leds, esta para que la luz no se mezclara con los leds que se ecuentran al lado, esta cuadricula es de 7 x 7 , 7 cuadros de altura por 7 cuadros de anchura, para un total de 49 leds, la base se hizo en madera cortada con la laser
 
 ![IMG_20240316_090201](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/df25fe40-f0c0-42ce-9857-53fdd0ddb71b)
 
@@ -213,18 +210,16 @@ El Robot Letrero inicio como una matriz de Leds Neopixels programables, se compr
 
 ![IMG_20240316_093110](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/346432fc-3b03-4b3b-b9f0-c35c10990726)
 
-La libreria FastLed permite controlar color, encendido, apagado, intensidad de los Leds, todo controlado por el Arduino, se necesito un regulador de 5v para alimentar el Nano, ademas de un pequeño circuito de proteccion formado por resistencias y un capacitor, para mantener el voltaje estable, ya que los Neopixels son muy sensibles a los cambios de voltaje.
+The FastLed library allows you to control color, on, off, intensity of the LEDs, all controlled by the Arduino, a 5v regulator is needed to power the Nano, in addition to a small protection circuit made up of resistors and a capacitor, to maintain the stable voltage, as Neopixels are very sensitive to voltage changes.
 
 ![IMG_20240316_100432](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/7032f69f-3d6f-46d6-942e-da96e18d160f)
 
-Al principio se penso en mantener el letrero en una posicion fija, y que recibiera datos mediante un Xbee de los otros robots
-
+At first it was thought to keep the sign in a fixed position, and that it would receive data through an Xbee from the other robots.
 
 ![IMG_20240430_173649](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/ab9a33d0-c796-4e37-88ba-d30179276860)
 
 
-Se decidio hacer un robot movil con el letrero, montandolo en una base omnidireccional de tres ruedas, controlada por un sensor de gestos, se necesito otro Arduino Mega, y 3 controladores de motor, se utilizo un tubo de PVC para montar el letrero a la base con  las ruedas los soportes fueron impresos con 3D
-
+It was decided to make a mobile robot with the sign, mounting it on a three-wheeled omnidirectional base, controlled by a gesture sensor, another Arduino Mega was needed, and 3 motor controllers, a PVC pipe was used to mount the sign to the base with wheels the supports were 3D printed
 
 ![IMG_20240327_110759](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/c0051c94-d9b7-41bf-a1ac-864a9d931c39)
 
