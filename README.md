@@ -44,7 +44,7 @@ The parts of the catamaran were printed in 3D, PLA filament was used, almost 2 K
 
 Electronics
 
-The hull parts were printed, glued and painted with waterproofing to prevent water ingress, we began to look for all the necessary electronic parts, including 
+The hull parts were printed, glued and painted with waterproof paint to prevent water ingress, we began to look for all the necessary electronic parts, including 
 
 • Arduino Mega- central control part
 
@@ -61,14 +61,13 @@ Parts were assembled in a waterproof box, to prevent water damage
 ![IMG_20231216_092738 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/5f296a9a-ce37-465e-84a7-7ab8991762b7)
 
 
-Para mayor seguridad se utilizo una caja de conexión DC Marina
-
+For greater security, a DC Marine electrical connection box was used.
 
 ![IMG_20231216_092745](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/e4618872-30d2-4804-a683-55f7db1b9a1f)
 
 
+Electronic system view
 
-Vista de sistema electrónico
 
 ![IMG_20231216_092752](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/610efba8-92bc-459f-b092-48f9d8f58bda)
 
@@ -78,26 +77,25 @@ The Arduino Mega was programmed in Mind+ and then converted to Arduino IDE, a Hu
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/fd964ffc-6a25-4de6-a4e9-99d7b0ee587c)
 
-Diagrama de funcionamiento del programa del dron Delfin
+Delfin drone program operation diagram
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/5f8d63fd-1946-4489-941b-fd391c064930)
 
-Para mayor control del movimiento se trabajo en la velocidad de los motores y ademas se añadieron ruedas omnidireccionales lo que mejoro el desplazamiento del dron
+For greater control of movement, work was done on the speed of the motors and omnidirectional wheels were also added, which improved the movement of the drone.
 
 ![IMG_20240430_173657 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b24909ca-a85f-4958-9688-e16458891688)
 
 
 15/9/2023
 
-Diseño de sistema de deteccion de gases
+Gas detection system design
 
-En diseño original se propuso un sistema de deteccion de diversos tipos de gases, como metano, butano, GLP, se escogio el sensor MQ-2, se instalo en una estructura impresa en 3D, se escogio la salida digital, con el control para detectar pequeñas concentraciones
+In the original design, a detection system for various types of gases was proposed, such as methane, butane, LPG, the MQ-2 sensor was chosen, it was installed in a 3D printed structure, the digital output was chosen, with the control to detect small concentrations
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b252c638-326d-4f34-9ba5-6d0bc0758476)
 
 
-Etapas de Construccion del Dron Delfín
-
+Construction Stages of the Delfín Drone
 
 
 
@@ -107,16 +105,16 @@ Etapas de Construccion del Dron Delfín
 ![IMG_20240207_111225 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/ef650fcb-bb67-449a-8c82-47b2b3c94c79)
 
 
-Cerebro
+Brain
 
-Sistema Robotico formado por 3 partes principales, una Laptop con Google MediaPipe, con el modulo de reconocimiento de gestos, se conecta con un Arduino Mega por comunicacion serial, este recibe los comandos y se conecta a los drivers de motores y a los servos
+Robotic System made up of 3 main parts, a Laptop with Google MediaPipe, with the gesture recognition module, connects with an Arduino Mega by serial communication, it receives the commands and connects to the motor drivers and the servos
 
 ![cerebro](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/12044e90-5427-4442-91a4-696b56b2f829)
 
 
-Base 
+Base
 
-La base se construyo con piezas de Lego Tetrix y REV, se imprimieron cajas en 3D para instalar los circuitos 
+The base was built with Lego Tetrix and REV pieces, boxes were 3D printed to install the circuits
 
 ![IMG_20240309_102558](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/023aa2f4-381e-4918-a83c-2e61a3ce990c)
 
@@ -127,8 +125,7 @@ La base se construyo con piezas de Lego Tetrix y REV, se imprimieron cajas en 3D
 ![IMG_20240321_133938](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/be936a84-0adc-4825-ae88-3d43033dc534)
 
 
-El Arduino Mega se conecta con un puerto USB , tambien se usan controladores de motor de alta potencia, un regulador de voltaje para alimentacion de los servomotores 
-
+The Arduino Mega connects with a USB port, high-power motor drivers and a voltage regulator are also used to power the servomotors.
 
 ![IMG_20240309_102611](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/387ff779-2e38-4828-a623-cabdf13b4d7c)
 
