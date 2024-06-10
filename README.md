@@ -90,9 +90,11 @@ For greater control of movement, work was done on the speed of the motors and om
 
 Gas detection system design
 
-In the original design, a detection system for various types of gases was proposed, such as methane, butane, LPG, the MQ-2 sensor was chosen, it was installed in a 3D printed structure, the digital output was chosen, with the control to detect small concentrations
+In the original design, a detection system for various types of gases was proposed, such as methane, butane, LPG, the MQ-2 sensor was chosen, it was installed in a 3D printed structure, 
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b252c638-326d-4f34-9ba5-6d0bc0758476)
+
+The MQ2 gas sensor is simple to use and has two different outputs. It not only provides a binary indication of the presence of combustible gasses, but also an analog representation of their concentration in air.The sensor’s analog output voltage  varies in proportion to the concentration of smoke/gas. The higher the concentration, the higher the output voltage; the lower the concentration, the lower the output voltage. The analog signal is conected to a analog input of the Arduino.To determine whether the gas concentration is within acceptable limits, we need to record the values your sensor outputs when exposed to various amounts of smoke/gas to find a  threshold value.
 
 
 Construction Stages of the Delfín Drone
