@@ -112,8 +112,9 @@ Construction Stages of the Delfín Drone
 
 ![IMG_20240207_111225 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/ef650fcb-bb67-449a-8c82-47b2b3c94c79)
 
-![xbee (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/474ed05e-4e08-4866-bc96-7bbc9ad08c18)
-![xbee (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/474ed05e-4e08-4866-bc96-7bbc9ad08c18)
+
+![xbee (2)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/2ea504b6-38cc-48c7-ba78-9afb236b81ee)
+
 
 
 Brain
