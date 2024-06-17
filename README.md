@@ -81,7 +81,13 @@ Delfin drone program operation diagram
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/5f8d63fd-1946-4489-941b-fd391c064930)
 
-For greater control of movement, work was done on the speed of the motors and omnidirectional wheels were also added, which improved the movement of the drone.
+Conversion for Robocup
+
+Changes were made to the design to be able to use it in Robocup, a base was built with aluminum bars, with motors and wheels so that it could be used on the ground, to improve mobility omnidirectional wheels were included that improve the movement of the system.
+
+Some systems such as GPS, Wi-fi were removed, since due to regulations they cannot be used, but these can be installed again
+
+
 
 ![IMG_20240430_173657 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b24909ca-a85f-4958-9688-e16458891688)
 
