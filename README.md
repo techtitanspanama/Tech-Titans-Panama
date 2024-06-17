@@ -143,6 +143,13 @@ The base was built with Lego Tetrix and REV pieces, boxes were 3D printed to ins
 
 ![IMG_20240321_133938](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/be936a84-0adc-4825-ae88-3d43033dc534)
 
+Electronic Parts
+
+- 1 Arduino Mega
+- 1 Cytron dual high power motor driver
+- 2 12 volts REV motors
+- 3 SG92R mini servos
+- 1- HS442 standard servo
 
 The Arduino Mega connects with a USB port, high-power motor drivers and a voltage regulator are also used to power the servomotors.
 
