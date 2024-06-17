@@ -113,6 +113,11 @@ Construction Stages of the Delfín Drone
 ![IMG_20240207_111225 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/ef650fcb-bb67-449a-8c82-47b2b3c94c79)
 
 
+Communication
+
+An Xbee transmitter was added, which communicates with the sign robot, in the programming commands were established to show the direction of movement of the Delfin drone,
+left, right, forward and backward, also when the gas alert signal is activated it sends a warning signal, which shows the alert symbol on the screen, and shows the chemical formula of the detected gas, butane
+
 ![xbee (2)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/2ea504b6-38cc-48c7-ba78-9afb236b81ee)
 
 
