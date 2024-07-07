@@ -115,6 +115,9 @@ Construction Stages of the Delfín Drone
 
 ![IMG_20240207_111225 (1)](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/ef650fcb-bb67-449a-8c82-47b2b3c94c79)
 
+![IMG-20240620-WA0010](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/0aaa4915-ea64-4307-9c1b-db1e16180add)
+
+
 
 Communication
 
