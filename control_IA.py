@@ -1,9 +1,3 @@
-#IMPORTANT INFORMATION
-#This code runs on Google's Mediapipe 0.8.10, I have not tested it on more recent releases.
-#To end the program when it is running, press "d" on your keyboard; simply closing the window will not work.
-#I have not added any support for left handed users, so closing your left hand will not work, only the right hand is understood when it is closed (left works for open).
-#It is assumed that the arduino controlling the gripper is on COM3, this may not be the case if you are replicating this project.
-#To adjust which COM is used to transmit serial information to the arduino, change the definition of ser in line 14.
 
 import cv2 as cv
 import mediapipe as mp
@@ -75,7 +69,7 @@ with mp_hands.Hands(
             for hand_landmarks in results.multi_hand_landmarks:
                 drawHands()
 
-            #Checks if hand is fully closed.
+            #Checks  hand 
             if getHand() == [True, False, True, True, False]:
                 ser.write(str.encode('C'))
                 
