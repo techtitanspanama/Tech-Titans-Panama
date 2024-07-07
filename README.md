@@ -107,6 +107,7 @@ The MQ2 gas sensor is simple to use and has two different outputs. It not only p
 
 Construction Stages of the Delfín Drone
 
+![IMG-20240620-WA0008](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/202b33d3-d673-484a-87c5-4539a5dbf8ef)
 
 
 ![IMG_20240306_115409](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/c3ea9fb1-a4cc-4355-93e4-c97194273c73)
