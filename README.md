@@ -236,6 +236,10 @@ The programming was done as a base in Mind+, a block programming language and wa
 
 ![image](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/b14a6c8f-8a1f-4d4b-8667-782568becce1)
 
+COQUETE FINAL
+
+![IMG_20240617_180139](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/74142c9a-736f-4f9b-80f4-f2d789c65d88)
+
 
 The Robot Sign
 
